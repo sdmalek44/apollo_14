@@ -29,7 +29,7 @@ I see the average age of all astronauts.
 ```
 As a visitor,
 When I visit '/astronauts'
-I see a list of the space missions' in alphabetical order for each astronaut.
+I see a list of the missions' in alphabetical order for each astronaut.
 (e.g "Apollo 13"
      "Capricorn 4"
      "Gemini 7")
