@@ -9,7 +9,7 @@ Fork this repository and clone your newly created repository. At the end of one 
 * Use TDD to implement the following user stories.
 * Validation tests are not necessary; however, if model methods are written, don't forget to test them!
 
-```
+<!-- ```
 As a visitor,
 When I visit '/astronauts'
 I see a list of astronauts with the following info:
@@ -17,15 +17,15 @@ I see a list of astronauts with the following info:
  - Age
  - Job
  (e.g. "Name: Neil Armstrong" Age: 37 Job: Commander")
-```
-
+``` -->
+<!--
 ```
 As a visitor,
 When I visit '/astronauts'
 I see the average age of all astronauts.
 (e.g. "Average Age: 34")
-```
-
+``` -->
+<!--
 ```
 As a visitor,
 When I visit '/astronauts'
@@ -33,7 +33,7 @@ I see a list of the missions in alphabetical order for each astronaut.
 (e.g "Apollo 13"
      "Capricorn 4"
      "Gemini 7")
-```
+``` -->
 
 ```
 As a visitor,
